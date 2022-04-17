@@ -1,0 +1,9 @@
+3.7.4
+aab236457518684d35c51656acac46dd494856a2
+o:Sass::Tree::RootNode:@children['o:Sass::Tree::RuleNode:
+@rule[I"*:ET:@parsed_ruleso:"Sass::Selector::CommaSequence:
+@members[o:Sass::Selector::Sequence;[o:#Sass::Selector::SimpleSequence;[o:Sass::Selector::Universal:@namespace0:
+@linei:@filename0:
+@subject0:
+@sourceso:Set:
+@hash}
